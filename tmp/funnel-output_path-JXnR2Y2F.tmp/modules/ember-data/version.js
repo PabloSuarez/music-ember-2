@@ -1,0 +1,1 @@
+/Users/pablosuarez/github/workshop-ember/music/tmp/creator-output_path-6XKVbawp.tmp/version.js

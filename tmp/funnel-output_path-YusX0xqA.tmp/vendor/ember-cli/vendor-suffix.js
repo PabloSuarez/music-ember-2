@@ -1,0 +1,1 @@
+/Users/pablosuarez/github/workshop-ember/music/tmp/funnel-input_base_path-wkTUY4k8.tmp/0//vendor-suffix.js

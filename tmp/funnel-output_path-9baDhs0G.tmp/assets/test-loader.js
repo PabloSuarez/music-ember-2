@@ -1,0 +1,1 @@
+/Users/pablosuarez/github/workshop-ember/music/tmp/funnel-input_base_path-LDbmPpFN.tmp/0/bower_components/ember-cli-test-loader/test-loader.js

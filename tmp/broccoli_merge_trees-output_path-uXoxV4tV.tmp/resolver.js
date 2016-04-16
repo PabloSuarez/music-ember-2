@@ -1,0 +1,1 @@
+/Users/pablosuarez/github/workshop-ember/music/app/resolver.js

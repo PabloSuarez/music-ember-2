@@ -1,0 +1,1 @@
+/Users/pablosuarez/github/workshop-ember/music/bower_components/ember-cli-test-loader/test-loader.js
